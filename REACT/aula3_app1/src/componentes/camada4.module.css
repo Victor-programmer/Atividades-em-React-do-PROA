@@ -1,0 +1,9 @@
+div{
+    border: 10px;
+    border-color: red;
+    background-color: yellow;
+    width: 930px;
+    height: 450px;
+    position: absolute;
+    top: 157px;
+}
