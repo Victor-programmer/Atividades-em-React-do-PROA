@@ -13,7 +13,7 @@ function Header(){
                 <Link to='/Escocia'>Escócia</Link>
                 <Link to='/Grand_Canyon'>Grand Canyon</Link>
                 <Link to='/Muralhas_da_China'>Muralhas da China</Link>
-                <Link to='/Aruba'>Aruba</Link>
+                <Link to='/teste'>Aruba</Link>
              </nav>
 
              <div className={styles.busca}>

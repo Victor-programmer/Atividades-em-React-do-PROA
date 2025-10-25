@@ -5,6 +5,8 @@ import Footer from './componentes/Footer'
 import Escocia from './componentes/Escocia'
 import Grand_Canyon from './componentes/Grand_Canyon'
 import Muralhas_da_China from './componentes/Muralhas_da_China'
+
+
 import Aruba from './componentes/Aruba'
 import './App.css'
 
@@ -22,6 +24,7 @@ return (
                   <Route path='/Grand_Canyon' element={<Grand_Canyon />} />
                   <Route path='/Muralhas_da_China' element={<Muralhas_da_China />} />
                   <Route path='/Aruba' element={<Aruba />} />
+                  
               </Routes>          
             <Footer />
         </Router>

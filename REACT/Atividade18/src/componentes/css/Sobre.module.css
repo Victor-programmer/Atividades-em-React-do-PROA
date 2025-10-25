@@ -1,0 +1,32 @@
+.sobre{
+    width: 100%;
+    height: auto;
+    background-color: brown;
+}
+.container{
+    gap: 50px;
+    display: flex;
+    width: 100%;
+    padding: 60px;
+}
+.textoSobre{
+    color: #fff;
+    width: 40%;
+    height: 250px;
+    padding: 30px;
+    background-color: rgba(240, 248, 255, 0.547);
+}
+.textoSobre h1{
+    font-size: 30px;
+}
+.textoSobre p{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.imagemSobre{
+    width: 50%;
+}
+.imagemSobre img{
+    width: 600px;
+    height: 300px;
+}

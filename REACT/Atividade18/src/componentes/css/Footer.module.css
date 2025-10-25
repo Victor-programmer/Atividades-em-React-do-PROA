@@ -1,0 +1,14 @@
+.footer{
+    color: #fff;
+    background-color: black;
+    padding: 30px;
+    align-items: center;
+    text-align: center;
+}
+.footer h1{
+    font-size: 18px;
+}
+.footer_img{
+    width: 30px;
+    margin: 15px;
+}

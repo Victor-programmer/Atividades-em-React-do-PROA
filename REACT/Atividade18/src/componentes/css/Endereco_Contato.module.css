@@ -1,0 +1,75 @@
+
+.EnderecoContato{
+    padding: 20px 0px;
+    background-color: rgb(204, 92, 92);
+}
+.Endereco{
+    
+    display: flex;
+   gap: 50px;
+    padding: 50px;
+    background-color: brown;
+}
+
+.mapa_img{
+    width: 600px;
+    height: 300px;
+
+    
+}
+
+.textoMapa{
+
+    color: #fff;
+    width: 45%;
+    height: 250px;
+    padding: 30px;
+    background-color: rgba(240, 248, 255, 0.547);
+}
+
+.Contato{
+    gap: 60px;
+    display: flex;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+.formulario{
+    width: 50%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.formulario input{
+    margin-bottom: 20px;
+    width: 80%;
+    border-radius: 5px;
+    height: 40px;
+}
+#inputTexto{
+    height: 150px;
+    width: 50%;
+}
+.redes {
+    
+    align-items: center;
+    padding: 30px;
+   
+    
+}
+.imagens {
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.redes h1{
+    color: rgb(15, 15, 154);
+    font-size: 30px;
+}
+.redes img{
+    width: 100px;
+    height: 100px;
+}
